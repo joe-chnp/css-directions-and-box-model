@@ -1,1 +1,25 @@
 /* Start coding here */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    padding: 52px 0 52px 55px;
+    background-color: #92AABD;
+    color: #183B56;
+    font-size: 32px;
+}
+
+.content-container {
+    padding: 30px 24px 24px 24px;
+    background-color: #E4E9ED;
+    border: 2px solid black;
+    margin: 50px 0 0 55px;
+    width: 536px;
+}
+
+img {
+    margin: 24px 0 24px 0;
+}
